@@ -22,7 +22,7 @@ Since its using SOL/USDC the average buy price isn't exact to USD but its pretty
 ## Installation
 1. Install dependencies
 ```shell
-pip -r requirements.txt
+pip install -r requirements.txt
 ```
 2. Run calc.py
 
