@@ -17,7 +17,7 @@ I needed to multiple variables from my trades on the solana network that wasn't 
 
 
 ## Limtitations
-Since its using SOL/USDC the average buy price isn't exact to USD but its pretty close and won't affect overall gains and losses too considerably. 
+Since its using SOL/USDC the average buy price isn't exact to USD but its pretty close and won't affect overall gains and losses too considerably. Additionally, I can't retrieve CU limit or CU budget to calcualte the priority fees on the solanaFM api and cbf paying $199/month for solscan api. 
 
 ## Installation
 1. Install dependencies
